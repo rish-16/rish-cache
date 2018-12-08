@@ -1,0 +1,2 @@
+# rish-cache
+public CDNs
